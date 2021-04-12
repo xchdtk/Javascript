@@ -1,3 +1,4 @@
+// 프로토타입
 var a = [1, 2, 3, 4, 10];
 Array.prototype.print = function() {
     for(var i=0; i<this.length; i++){
