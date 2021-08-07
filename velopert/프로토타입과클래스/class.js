@@ -25,7 +25,4 @@ class Cat extends Animal {
 const dog = new Dog("멍멍이", "멍멍");
 const cat = new Cat("야옹이", "야옹");
 
-dog.say();
-cat.say();
-
-console.log(dog);
+console.log(dog.type);

@@ -39,3 +39,4 @@ const dog = new Dog("멍멍이", "멍멍");
 const cat = new Cat("야옹이", "야옹");
 console.log(dog);
 console.log(cat);
+console.log(dog.say())
